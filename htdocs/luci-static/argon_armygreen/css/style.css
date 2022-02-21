@@ -1742,11 +1742,11 @@ div>.table>.tbody>.tr:nth-of-type(2n) {
 }
 
 .main>.main-left>.sidenav-header>.brand {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     color: #CB4042;
     font-family: "TypoGraphica";
     text-decoration: none;
-    padding-left: 2rem;
+    padding-left: 2.64rem;
     cursor: default;
     vertical-align: text-bottom;
     white-space: nowrap;
@@ -1757,7 +1757,7 @@ div>.table>.tbody>.tr:nth-of-type(2n) {
 }
 
 .main>.main-left>.nav>li a {
-    color: #8898aa;
+    color: #EC4F7A;
     display: block;
 }
 
@@ -1915,7 +1915,7 @@ header>.fill>.container>.brand {
 }
 
 .main>.main-left>.nav>.slide>.menu.active {
-    color: #000;
+    color: #372D4F;
     background: #f6f9fc;
 }
 
@@ -1933,7 +1933,7 @@ header>.fill>.container>.brand {
     padding: 0.5rem 1.5rem 0.5rem 3rem;
     text-decoration: none;
     white-space: nowrap;
-    color: #525f7f;
+    color: #F75C2F;
     transition: all 0.2s;
 }
 
@@ -2204,7 +2204,7 @@ form.inline+form.inline,
 .cbi-button-apply,
 .cbi-button-edit {
     color: #fff !important;
-    background: linear-gradient(65deg, #f9ffff 0, #fb6340 100%);
+    background: linear-gradient(65deg, #f596aa 0, #fb6340 100%);
 }
 
 
